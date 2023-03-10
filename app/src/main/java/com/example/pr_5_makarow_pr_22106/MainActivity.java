@@ -33,6 +33,7 @@ int a = 1;
 int y =2;
 int u = 3;
 int i = 2;
+int o = 5;
         setSupportActionBar(binding.toolbar);
 
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
